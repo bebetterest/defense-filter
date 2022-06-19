@@ -33,6 +33,8 @@ jupyter matplotlib numpy tqdm torch adversarial-robustness-toolbox transformers
 
 ## 关于方案
 
+**（如图片加载失败可至pics目录下查看各图片）**
+
 方案整体如下图所示：
 
 ![方案框架图](pics/framework.jpeg)
